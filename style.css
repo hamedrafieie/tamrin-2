@@ -1,0 +1,64 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+}
+
+#main {
+    overflow: hidden;
+    background-image: url('photo_2021-08-16_13-16-31.jpg');
+    background-size: contain;
+    background-position: left;
+    background-repeat: no-repeat;
+    align-content: center;
+    width: 1280px;
+
+}
+
+.pic {
+    background-image: url("image_2021-08-14_12-52-03.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    float: right;
+    width: 37%;
+    height: 321px;
+    padding-top: 362px;
+}
+
+h1 {
+    font-weight: bold;
+    color: #2b4b80;
+    font-size: xxx-large;
+    width: 650px;
+    height: 115px;
+}
+
+#img1 {
+    margin: auto;
+
+}
+
+#contacus {
+    background-color: #ff5c97;
+    width: 200px;
+    height: 55px;
+    border-radius: 10px;
+}
+
+#p1 {
+    padding-top: 14px;
+    text-align: center;
+    color: aliceblue;
+}
+
+#p2 {
+    font-size: larger;
+    width: 450px;
+}
+
+#contain {
+    width: 40%;
+    padding-left: 203px;
+    padding-top: 134px;
+    float: left;
+}
